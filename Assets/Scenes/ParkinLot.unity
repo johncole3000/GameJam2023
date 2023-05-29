@@ -461,6 +461,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1590652422, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
+      propertyPath: m_Volume
+      value: 0.529
+      objectReference: {fileID: 0}
     - target: {fileID: 5788649149513769025, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
       propertyPath: m_Name
       value: Parkinglot
@@ -508,26 +512,6 @@ PrefabInstance:
     - target: {fileID: 5788649149513769026, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5788649149513769086, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
-      propertyPath: m_Points.Array.size
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 5788649149513769086, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
-      propertyPath: m_Points.Array.data[6].x
-      value: 4.2674875
-      objectReference: {fileID: 0}
-    - target: {fileID: 5788649149513769086, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
-      propertyPath: m_Points.Array.data[6].y
-      value: -0.18380606
-      objectReference: {fileID: 0}
-    - target: {fileID: 5788649149513769086, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
-      propertyPath: m_Points.Array.data[7].x
-      value: 4.2550697
-      objectReference: {fileID: 0}
-    - target: {fileID: 5788649149513769086, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
-      propertyPath: m_Points.Array.data[7].y
-      value: -0.18427885
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0a861f5103917e4e892cff231c31c32, type: 3}
