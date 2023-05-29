@@ -9,12 +9,12 @@ public class PlayerMovement : MonoBehaviour
     private float moveX;
     private float moveY;
     private bool isPunch;
-    public float speed;
+    private float speed;
+    
     
     void Start()
     {
-        
-        speed = 0.8f;
+        speed = 5;
         gameObject.tag = "Player";
     }
 
@@ -38,5 +38,13 @@ public class PlayerMovement : MonoBehaviour
             gameObject.transform.rotation = Quaternion.Euler(0,180,0);
         }
 
+    }
+    void OnJab(InputValue Jab){
+        animator.SetBool("IsPunching", true);
+        speed = 0.1f;
+    }
+    public void EndJab(){
+        animator.SetBool("IsPunching", false);
+        speed = 5.0f;
     }
 }
