@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: 4b43d03adc7715648909e0feaeb810f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace15629bf2a864b95e183cbf03a9cd
+      internalID: -1406674545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3296
+        width: 420
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a76fff2f1c5254e99a30074cebaf22
+      internalID: -1861139672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3296
+        width: 320
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803363b25fd6ca47b2218ad032797ad
+      internalID: -139026862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 3296
+        width: 421
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba1bd105fdf174fb881657d305ef5e
+      internalID: -895403680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33ccdecfde66144ac325e60e6b9d46
+      internalID: 1236174026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 3296
+        width: 421
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d1e4ef3c70bad4e964699977bee411
+      internalID: -600781959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725911dfb81deb846b899133f184835b
+      internalID: 1496657873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 3296
+        width: 420
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb3d6bb6408e79449c395ba9443e50e
+      internalID: 632097056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80924ac0ff2f65458f7850b42ce700e
+      internalID: 793789313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 7293
+        y: 3296
+        width: 414
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d923081003cc8ff458df9827855c289e
+      internalID: 2107720360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 8489
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e46ec89708cd4c8db7603693f9b41
+      internalID: 1829445269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 8888
+        y: 3296
+        width: 420
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a083fed7eaa9418fb8d9437a0555a
+      internalID: 66083705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 10090
+        y: 3296
+        width: 320
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd259dc20d9cc74191c2b034e4f171e
+      internalID: -1930358469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 10489
+        y: 3296
+        width: 421
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d0578dd40596438502b0399e3a37b
+      internalID: 1388431305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 11692
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93496ce7bd7934faf632e423fd4272
+      internalID: -1536242597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 12090
+        y: 3296
+        width: 421
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea5dddaba821149a69ca10b91c69fb
+      internalID: 20854427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 13293
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3d0eb8e69fe243895f07af7333f8c
+      internalID: 458888285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 13692
+        y: 3296
+        width: 420
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe29a1f4e763e90468ab624250742963
+      internalID: -378487626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 14888
+        y: 3296
+        width: 319
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2113916b2147c40bebecc0c96e7800
+      internalID: -76205876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 15293
+        y: 3296
+        width: 414
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f021aa0e3553e440af0063d907ff0aa
+      internalID: 106121428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 4
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2365707c560de499888fc277724eb4
+      internalID: 283790825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 1422
+        height: 3108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccdfa43cd9424144b3d374fd11018c9
+      internalID: 1418941128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 0
+        width: 1414
+        height: 3108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816cf5fff3037fe4b939659663a0003a
+      internalID: 1876957046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 0
+        width: 1422
+        height: 3108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc9bb757ca0d64e9ec0088c4a29fe8
+      internalID: 5849061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 4988
+        y: 0
+        width: 1422
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ade39b31862b748b8689f159bf1b7e
+      internalID: 756733025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 0
+        width: 1422
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3074f305be5144ace9e5f69b55ad0
+      internalID: -1748963220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 0
+        width: 1422
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad3e092fcf264488f559660388b628
+      internalID: 1881259335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 9793
+        y: 0
+        width: 1414
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa540aec4b1544790254c0dc17727a
+      internalID: -1056052716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 11387
+        y: 0
+        width: 1422
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20403c756c8f30b4a96e4c695874d0e4
+      internalID: 1570670523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 12988
+        y: 0
+        width: 1422
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbecc1a937cb9b4992d1909afab70d3
+      internalID: -2143627833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mall_Cop_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 14590
+        y: 0
+        width: 1410
+        height: 3007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff810f7ecffc72e4fad708b9d280a209
+      internalID: -1917004975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mall_Cop_Idle_18: -76205876
+      Mall_Cop_Idle_3: -895403680
+      Mall_Cop_Idle_28: 1570670523
+      Mall_Cop_Idle_24: 756733025
+      Mall_Cop_Idle_0: -1406674545
+      Mall_Cop_Idle_11: 66083705
+      Mall_Cop_Idle_15: 20854427
+      Mall_Cop_Idle_2: -139026862
+      Mall_Cop_Idle_6: 1496657873
+      Mall_Cop_Idle_7: 632097056
+      Mall_Cop_Idle_10: 1829445269
+      Mall_Cop_Idle_19: 106121428
+      Mall_Cop_Idle_8: 793789313
+      Mall_Cop_Idle_14: -1536242597
+      Mall_Cop_Idle_23: 5849061
+      Mall_Cop_Idle_26: 1881259335
+      Mall_Cop_Idle_21: 1418941128
+      Mall_Cop_Idle_5: -600781959
+      Mall_Cop_Idle_12: -1930358469
+      Mall_Cop_Idle_22: 1876957046
+      Mall_Cop_Idle_1: -1861139672
+      Mall_Cop_Idle_29: -2143627833
+      Mall_Cop_Idle_20: 283790825
+      Mall_Cop_Idle_16: 458888285
+      Mall_Cop_Idle_9: 2107720360
+      Mall_Cop_Idle_30: -1917004975
+      Mall_Cop_Idle_27: -1056052716
+      Mall_Cop_Idle_25: -1748963220
+      Mall_Cop_Idle_17: -378487626
+      Mall_Cop_Idle_4: 1236174026
+      Mall_Cop_Idle_13: 1388431305
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
