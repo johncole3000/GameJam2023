@@ -103,10 +103,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Health: 0
+  damage: 0
   attackpos: {fileID: 2126904463193080937}
   playerlayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
   chaseRadius: 0
   speed: 0
   names: 

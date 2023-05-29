@@ -19,7 +19,7 @@ public class nextScene : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other){
         if(other.gameObject.tag == "Player"){
             Debug.Log(other.tag);
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
     }
 }

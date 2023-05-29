@@ -303,6 +303,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1afefc536127dd4da5fcee102cb42d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  collid: {fileID: 678070265}
   Health: 3
   attackpos: {fileID: 603642740}
   attkRange: 1

@@ -6,9 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: ade80368d0d8e574e8b84f1708ca06f5
+  - enabled: 1
     path: Assets/Scenes/ParkinLot.unity
     guid: 508f0881df33c8c4893e0a1cf9a27178
   - enabled: 1
     path: Assets/Scenes/Mall.unity
     guid: 957eaa484e8aae742b73808628e8da0b
+  - enabled: 1
+    path: Assets/Scenes/DinningArea.unity
+    guid: 25829be2680b64249ae4526f737f359c
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 01222a3c31ba42145a3d184df9e9c2f0
   m_configObjects: {}

@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: b11ff8bc6787d934baa2dd1d98a22ce9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3496
+        width: 117
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a695306d00ee449bf30970ca30a4cf
+      internalID: 2024765571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3496
+        width: 312
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa9e8b03f56bf47aa8accd95aeba67
+      internalID: 1002889240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 3496
+        width: 320
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28e0d7bd2b65544b4d524a86aa8ba5
+      internalID: -413468131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 3496
+        width: 320
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0456c4882a643f64f87da1a3bbef8faa
+      internalID: -33791926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 3496
+        width: 116
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b1cb47674b1a498be117756994cf6
+      internalID: -351533486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 8395
+        y: 3496
+        width: 116
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3180154b6b4a5bf4ca94a7a17376bb42
+      internalID: 1435950810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 9293
+        y: 3496
+        width: 312
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d98f7947149ff42b176715820de549
+      internalID: 886286313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 11090
+        y: 3496
+        width: 320
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16f7ab31680a40489dbe13255161b39
+      internalID: 420645109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 12989
+        y: 3496
+        width: 320
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78c55419e6a6fb43a2ba3f0a2104fa1
+      internalID: 2097053808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 14191
+        y: 3496
+        width: 118
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dcd8719acbcf94e9b3da88d811a630
+      internalID: 1390047163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 1617
+        height: 3309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d4ac3da98a254da3820362ab96e85
+      internalID: 179879472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 0
+        width: 1719
+        height: 3309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb233e1b782b1d042ad1b97817b71c02
+      internalID: 27732671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 0
+        width: 1320
+        height: 3410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b264e546985c244297b3e2b7404716d
+      internalID: -1079787672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 0
+        width: 1515
+        height: 3410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b99ee642d263b4a8947f4d2d2b2828
+      internalID: 86713375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 8395
+        y: 0
+        width: 1515
+        height: 3410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b058a34da6ecdfa4d8210b2309c8cbc5
+      internalID: 1708300972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 10191
+        y: 0
+        width: 1719
+        height: 3410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd8662de774ae4f860b8429820f4f0
+      internalID: 1500230154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 12590
+        y: 0
+        width: 1320
+        height: 3410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f44957a1d92143b667be94ef35fbc
+      internalID: 769504135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef_Walking-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 14191
+        y: 0
+        width: 1719
+        height: 3410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702129f413583f8489bd8b286f03ae44
+      internalID: 2016754116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chef_Walking-Sheet_11: 27732671
+      Chef_Walking-Sheet_7: 420645109
+      Chef_Walking-Sheet_2: -413468131
+      Chef_Walking-Sheet_0: 2024765571
+      Chef_Walking-Sheet_17: 2016754116
+      Chef_Walking-Sheet_8: 2097053808
+      Chef_Walking-Sheet_6: 886286313
+      Chef_Walking-Sheet_12: -1079787672
+      Chef_Walking-Sheet_5: 1435950810
+      Chef_Walking-Sheet_14: 1708300972
+      Chef_Walking-Sheet_1: 1002889240
+      Chef_Walking-Sheet_15: 1500230154
+      Chef_Walking-Sheet_4: -351533486
+      Chef_Walking-Sheet_10: 179879472
+      Chef_Walking-Sheet_9: 1390047163
+      Chef_Walking-Sheet_16: 769504135
+      Chef_Walking-Sheet_13: 86713375
+      Chef_Walking-Sheet_3: -33791926
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

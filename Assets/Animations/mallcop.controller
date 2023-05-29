@@ -92,10 +92,10 @@ AnimatorStateMachine:
     m_Position: {x: 150, y: 90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6307713738846674972}
-    m_Position: {x: -110, y: -50, z: 0}
+    m_Position: {x: -30, y: -70, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 5328513722018632996}
-    m_Position: {x: 150, y: -40, z: 0}
+    m_Position: {x: 270, y: -80, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: -6033040330494104012}
@@ -148,13 +148,13 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: IsJab
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 1
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
